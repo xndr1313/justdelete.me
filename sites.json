@@ -441,6 +441,14 @@
     },
 
     {
+        "name": "Deezer",
+        "url": "http://www.deezer.com/account",
+        "difficulty": "easy",
+        "notes": "Logon, go to 'my setting' tab and click 'delete my account'. Just confirm your Password.",
+        "notes_fr": "Logez vous, allez dans l'onglet 'mes paramètres' et cliquez sur 'supprimer mon compte'. Il faut juste confirmer le mot de passe.",
+    },
+    
+    {
         "name": "Delicious",
         "url": "https://delicious.com/settings/deactivate",
         "difficulty": "easy"
